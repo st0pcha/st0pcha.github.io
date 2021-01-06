@@ -1,0 +1,39 @@
+
+#invite-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+#bot-title {
+    font-size: 48px;
+    margin: 0px;
+}
+
+h2 {
+    text-align: left;
+}
+
+.rightpic {
+    float: right;
+    margin: 0 0 5px 5px;
+}
+
+.leftpic {
+    float: left;
+    margin: 0 0 5px 5px;
+}
+
+#invite-commands-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#invite-button, #commands-button {
+    margin-left: 4px;
+    margin-right: 4px;
+}
