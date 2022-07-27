@@ -1,0 +1,39 @@
+body {
+     background-color: rgb(13, 17, 23);
+}
+
+div {
+     text-align: center;
+}
+
+.avatar {
+     margin: 0 auto;
+     overflow: hidden;
+     width: 333px;
+     height: 333px;
+     border-radius: 50%;
+}
+
+.text {
+     color: white;
+     font-size: 32px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.small-text {
+     color: white;
+     font-size: 24px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+     background-color: white;
+     color: black;
+     border: none;
+     padding: 12px 16px;
+     cursor: pointer;
+     font-size: 16px;
+
+}
+.button:hover {
+     background-color: gray;
+}
