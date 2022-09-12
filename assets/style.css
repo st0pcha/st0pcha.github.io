@@ -1,5 +1,5 @@
 body {
-     background-color: rgb(13, 17, 23);
+     background-color: #0d1117;
 }
 
 div {
@@ -31,4 +31,24 @@ div {
      color: white;
      font-size: 24px;
      font-family: Arial, Helvetica, sans-serif;
+}
+
+.smaller-text {
+     color: white;
+     font-size: 16px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+     position: absolute;
+     left: 0;
+     bottom: 0;
+     width: 98%;
+     float: left;
+     padding: 1%;
+     margin-top: 10px;
+}
+
+.footer #social {
+     float: left;
 }
